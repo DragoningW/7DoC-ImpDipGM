@@ -27,8 +27,8 @@ To clone the repo and install dependencies, run the following on the Command Lin
 
 ```bash
 #Clone the bot locally
-git clone https://github.com/maximpopov11/DiplomacyGM.git
-cd DiplomacyGM
+git clone https://github.com/DragoningW/7DoC-ImpDipGM
+cd 7DoC-ImpDipGM
 
 #Create virtual environment
 virtualenv venv -p=3.12 
