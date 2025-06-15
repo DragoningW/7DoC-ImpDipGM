@@ -1,3 +1,5 @@
+THIS IS A MANUAL FORK OF https://github.com/maximpopov11/DiplomacyGM
+
 This project is designed to fully automate the adjudication of Diplomacy games over Discord. The step-by-step process to
 use this bot will be outlined in the near future.
 
